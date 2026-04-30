@@ -97,7 +97,7 @@ I specialize in **Minecraft server architecture, AI-driven applications, and tra
 ## 📫 Contact
 
 * [![GitHub](https://img.shields.io/badge/GitHub-Kugana-111827?style=for-the-badge\&logo=github)](https://github.com/Kugana)
-* ![Discord Presence](https://lanyard.cnrad.dev/api/209663927733190657)
+* ![Discord](https://img.shields.io/badge/Discord-wayne0602-5865F2?style=for-the-badge&logo=discord)
 
 ---
 
