@@ -81,7 +81,7 @@ I specialize in **Minecraft server architecture, AI-driven applications, and tra
 ### 🧱 Minecraft Systems
 
 * Custom Plugin Ecosystem (Java)
-* Shader-based MiniMap HUD
+* Shader-based Core
 * Advanced UI / Talent System / Inventory Systems
 
 ---
