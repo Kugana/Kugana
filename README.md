@@ -55,7 +55,7 @@ I specialize in **Minecraft server architecture, AI-driven applications, and tra
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kugana\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kugana&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kugana\&layout=compact\&theme=tokyonight)
 
 ---
