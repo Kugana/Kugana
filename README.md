@@ -101,6 +101,8 @@ I specialize in **Minecraft server architecture, AI-driven applications, and tra
 
 ![Discord](https://img.shields.io/badge/Discord-wayne0602-5865F2?style=for-the-badge&logo=discord)
 
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:wayne87060271@gmail.com)
+
 
 ---
 
