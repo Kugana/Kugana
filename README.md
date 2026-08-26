@@ -6,7 +6,7 @@ I specialize in **Minecraft server architecture, AI-driven applications, and tra
 
 ## 🚀 About Me
 
-* 🧠 Developing **AI-powered learning platform** — *LearnUp (Lumora Labs)*
+* 🧠 Developing **AI-powered learning platform** — *LearnUp (UpPath Labs)*
 * ⚙️ Building **distributed Minecraft server systems (sharding, plugins, UI)**
 * 📊 Designing **AI trading models (Transformer + RL)**
 * 🌐 Full-stack development with **Node.js, MySQL, Supabase**
