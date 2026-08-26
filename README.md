@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Kugana
-
+# 👋 Hi, I'm Wayne
 🎯 Builder of systems, not just code.
 I specialize in **Minecraft server architecture, AI-driven applications, and trading systems**.
 
